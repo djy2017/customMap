@@ -10,6 +10,7 @@ Vue.http = Vue.prototype.$http = axios
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
+//  $mount 手动挂载 等同于 el：‘#app’ 但是 手动挂载是在准备好之后才执行挂载
 new Vue({
   components: { App },
   router,
