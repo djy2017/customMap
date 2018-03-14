@@ -17,7 +17,6 @@ const winURL = process.env.NODE_ENV === 'development'
 
 //  演示如何设置app图标，注意路径
 const iconPath = require('path').join(__dirname, '../renderer/assets/ycico.ico')
-console.log(iconPath)
 function createWindow () {
   /**
    * Initial window options
