@@ -1,6 +1,6 @@
 {
-  "name": "my-electron-vue",
-  "productName": "my-electron-vue",
+  "name": "electron-vue-demo",
+  "productName": "electron-vue-demo",
   "version": "0.0.0",
   "author": "'DJY' <515746057@qq.com>",
   "description": "An electron-vue project",
